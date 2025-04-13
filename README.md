@@ -1,1 +1,1 @@
-# inventry-instruement
+# inventory-instruement
